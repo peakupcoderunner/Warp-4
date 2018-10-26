@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeRunner.Warp4.CustomFunction", "CodeRunner.Warp4.CustomFunction\CodeRunner.Warp4.CustomFunction.csproj", "{63F45045-23B7-4678-A684-A3985E39A619}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeRunner.Warp4.CustomApplication", "CodeRunner.Warp4.CustomApplication\CodeRunner.Warp4.CustomApplication.csproj", "{7E0A9B49-DE0F-4860-9C97-A49ABC7B1857}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{63F45045-23B7-4678-A684-A3985E39A619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63F45045-23B7-4678-A684-A3985E39A619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63F45045-23B7-4678-A684-A3985E39A619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0A9B49-DE0F-4860-9C97-A49ABC7B1857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0A9B49-DE0F-4860-9C97-A49ABC7B1857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0A9B49-DE0F-4860-9C97-A49ABC7B1857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0A9B49-DE0F-4860-9C97-A49ABC7B1857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
